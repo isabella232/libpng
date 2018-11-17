@@ -35,6 +35,7 @@
 #define png_write_sBIT wx_png_write_sBIT
 #define png_write_cHRM_fixed wx_png_write_cHRM_fixed
 #define png_write_sRGB wx_png_write_sRGB
+#define png_write_eXIf wx_png_write_eXIf
 #define png_write_iCCP wx_png_write_iCCP
 #define png_write_sPLT wx_png_write_sPLT
 #define png_write_tRNS wx_png_write_tRNS
@@ -72,6 +73,7 @@
 #define png_handle_IEND wx_png_handle_IEND
 #define png_handle_bKGD wx_png_handle_bKGD
 #define png_handle_cHRM wx_png_handle_cHRM
+#define png_handle_eXIf wx_png_handle_eXIf
 #define png_handle_gAMA wx_png_handle_gAMA
 #define png_handle_hIST wx_png_handle_hIST
 #define png_handle_iCCP wx_png_handle_iCCP
